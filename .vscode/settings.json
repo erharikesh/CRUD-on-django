@@ -1,0 +1,17 @@
+{
+    "emmet.includeLanguages": {"django-html": "html"},
+    "editor.inlineSuggest.enabled": true,
+    "editor.inlineSuggest.mode": "subword",
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ],
+    "django.snippets.exclude": [
+
+
+
+        "cms",
+        "wagtail"
+    ]
+}
